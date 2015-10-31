@@ -1,0 +1,42 @@
+div {
+    border-radius: 5px;
+}
+
+#header {
+    z-index: 1;
+    position: fixed;
+    height: 80px;
+    width: 97%;
+    background-color: #7FFF00;
+    font-family: Monospace;
+    margin-top: -10px;
+}
+
+.left {
+    height: 440px;
+    width: 10%;
+    background-color: #ADFF2F;
+    float: left;
+    margin-top: 50px;
+}
+
+.right {
+    height: 425px;
+    width: 88%;
+    background-color: #FFFFE0;
+    float: right;
+    margin-top: 65px;
+    Font-family: Monospace;
+}
+
+#footer {
+    height: 120px;
+    width: 101.5%;
+    background-color: #7FFF00;
+    clear: both;
+    Font-family: Monospace;
+}
+
+main > h5 {
+    font-weight: bold;
+}
